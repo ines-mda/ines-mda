@@ -5,13 +5,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I first started learning how to code, I hated it. I was forced to learn it for school and now I LOVE IT!
 
-##
+<br>
 
-<div align="center">
-  <a href="https://github.com/ines-mda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ines-mda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ines-mda&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
  <div style="display: inline_block"><br>
   <img align="center" alt="Ines-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ines-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
