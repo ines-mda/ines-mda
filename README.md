@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Inês
 
 - 🔨 I’m currently working on [100 Days of Code: Python][website]
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: When I first started learning how to code, I hated it. I was forced to learn it for school and now I LOVE IT!
 
 <br>
 
